@@ -26,6 +26,7 @@ Requirements
 I develop the entire project uses Scala, Java on IntelliJ. If you want to enhance this project, I recommend to use IntelliJ as well.
 
 In addition, Java 8 and Scala 2.12 is required.
+* Access to https://drive.google.com/drive/folders/1vNoUm-ZMnhqFdY3E2236N8MZLm2_rHqz?usp=sharing, downloading and copy them to folder /cart-producer/build/distributions
 
 
 The technology stack
