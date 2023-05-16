@@ -1,0 +1,336 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/hduser/BigDataDemo/dto/build/classes/scala/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+11 items
+00 -> -source
+01 -> 1.8
+02 -> -target
+03 -> 1.8
+04 -> -d
+05 -> /home/hduser/BigDataDemo/dto/build/classes/scala/main
+06 -> -g
+07 -> -proc:none
+08 -> -s
+09 -> /home/hduser/BigDataDemo/dto/build/generated/sources/annotationProcessor/scala/main
+10 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Cart$.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Cart.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Order$.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Order.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingAddress$.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingAddress.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingStatus$.class
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingStatus.class
+binary dependencies:
+8 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> com.mekong.dto.Cart
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> com.mekong.dto.Cart$
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> com.mekong.dto.Order
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> com.mekong.dto.Order$
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> com.mekong.dto.ShippingAddress
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> com.mekong.dto.ShippingAddress$
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> com.mekong.dto.ShippingStatus
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> com.mekong.dto.ShippingStatus$
+used names:
+205 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> &&
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> <init>
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> ==
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> A
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> AbstractFunction5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Any
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> AnyRef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Boolean
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Cart
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> IndexOutOfBoundsException
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Int
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Iterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> List
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Long
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> None
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Nothing
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Object
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Order
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Predef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Product
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> ScalaRunTime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Serializable
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Some
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Statics
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> String
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T0
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T1
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T2
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T3
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T4
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> T5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> Tuple5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> _toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> anyHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> asInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> cardId
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> com
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> deliveredOn
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> dto
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> eq
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> finalizeHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> isInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> issuedTimestamp
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> longHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> mekong
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> mix
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> orders
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> package
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> runtime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> scala
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> typedProductIterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> userId
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> ||
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> &&
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> <init>
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> ==
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> A
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> AbstractFunction5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Any
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> AnyRef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Boolean
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Double
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> IndexOutOfBoundsException
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Int
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Iterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> None
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Nothing
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Object
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Order
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Predef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Product
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> ScalaRunTime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Serializable
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Some
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Statics
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> String
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T0
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T1
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T2
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T3
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T4
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> T5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> Tuple5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> _toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> amount
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> anyHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> asInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> com
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> doubleHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> dto
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> eq
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> finalizeHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> isInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> mekong
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> mix
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> orderId
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> package
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> price
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> productCategory
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> productId
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> runtime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> scala
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> typedProductIterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> ||
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> &&
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> <init>
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> ==
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> A
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> AbstractFunction5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Any
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> AnyRef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Boolean
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> IndexOutOfBoundsException
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Int
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Iterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> None
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Nothing
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Object
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Predef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Product
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> ScalaRunTime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Serializable
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> ShippingAddress
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Some
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> String
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T0
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T1
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T2
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T3
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T4
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> T5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> Tuple5
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> _hashCode
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> _toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> address
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> asInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> cartId
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> city
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> com
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> dto
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> eq
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> isInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> mekong
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> package
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> runtime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> scala
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> state
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> typedProductIterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> zipCode
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> ||
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> &&
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> <init>
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> ==
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> A
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> AbstractFunction3
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Any
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> AnyRef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Boolean
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> IndexOutOfBoundsException
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Int
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Iterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Long
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> None
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Nothing
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Object
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Predef
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Product
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> ScalaRunTime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Serializable
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> ShippingStatus
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Some
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Statics
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> String
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> T
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> T0
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> T1
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> T2
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> T3
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> Tuple3
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> _toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> anyHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> asInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> changeDate
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> com
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> dto
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> eq
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> finalizeHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> isInstanceOf
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> longHash
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> mekong
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> mix
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> orderId
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> package
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> runtime
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> scala
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> status
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> toString
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> typedProductIterator
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> ||
+product stamps:
+8 items
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Cart$.class -> lastModified(1679989525030)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Cart.class -> lastModified(1679989525018)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Order$.class -> lastModified(1679989525034)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Order.class -> lastModified(1679989525050)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingAddress$.class -> lastModified(1679989525054)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingAddress.class -> lastModified(1679989525066)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingStatus$.class -> lastModified(1679989525086)
+/home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingStatus.class -> lastModified(1679989525082)
+source stamps:
+4 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> hash(5781d6c8bbfd8823f91127271914d3864c350b69)
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> hash(130f548e8a1077ff614f9a9fb2fdf50a4b15d161)
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> hash(7f65b816978cd70f6b4c69ea84c393e6d92f2711)
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> hash(447fc9fa20aaa61eb4de07de0726ccb4a88f7217)
+binary stamps:
+2 items
+/home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar -> lastModified(1679881457020)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1674586978000)
+class names:
+2 items
+/home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar -> scala.runtime.AbstractFunction3
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIYulDwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwP0Mki3QABm5vdGlmeXNxAH4ADARhcIp0AAR3YWl0c3EAfgAMRZrSyXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMq7tD1HQADSRhc0luc3RhbmNlT2ZzcQB+AAwDwMJpdAALZGVsaXZlcmVkT25zcQB+AAwv8jihdAAOY29weSRkZWZhdWx0JDVzcQB+AAwqqvGhdAAMcHJvZHVjdEFyaXR5c3EAfgAM0iNypXQABmVxdWFsc3NxAH4ADH6ivxh0AAxhc0luc3RhbmNlT2ZzcQB+AAxqRy0AdAAMc3luY2hyb25pemVkc3EAfgAMYemUVHQADSRpc0luc3RhbmNlT2ZzcQB+AAyI7EOndAAIY2FuRXF1YWxzcQB+AAy3yPQSdAAGY2FyZElkc3EAfgAMpPYpuXQAD2lzc3VlZFRpbWVzdGFtcHNxAH4ADLYJy850AA5jb3B5JGRlZmF1bHQkNHNxAH4ADIvmq1h0AA1wcm9kdWN0UHJlZml4c3EAfgAMge1AKXQACW5vdGlmeUFsbHNxAH4ADE28AeF0AARDYXJ0c3EAfgAMG4d1i3QADGlzSW5zdGFuY2VPZnNxAH4ADMoUYKB0AAY8aW5pdD5zcQB+AAx90FsTdAACPT1zcQB+AAyRwelgdAAFY2xvbmVzcQB+AAz79D+/dAAGJGluaXQkc3EAfgAM5gA7F3QABm9yZGVyc3NxAH4ADBB3O3B0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADP8t/B10AARjb3B5c3EAfgAMSdhAbnQACHRvU3RyaW5nc3EAfgAMgoNfynQAAiE9c3EAfgAMZ/z3dXQACGdldENsYXNzc3EAfgAMoINymnQABnVzZXJJZHNxAH4ADEs7yGx0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADChecb10AAJuZXNxAH4ADPq5HuN0AAJlcXNxAH4ADMJMBOF0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyVwbRpdAACIyNzcQB+AAylYzKBdAAIZmluYWxpemVzcQB+AAwrB9zNdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzFXQvrdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATY29tLm1la29uZy5kdG8uQ2FydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGNMAAlpbmhlcml0ZWRxAH4AY0wAB3BhcmVudHNxAH4AY3hxAH4AgHNxAH4Ae3VxAH4AXgAAAABzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYdAAEamF2YXNxAH4AmHQAAmlvcQB+AJ1zcQB+AIx0AAdQcm9kdWN0cQB+AJJzcQB+AIx0AAZFcXVhbHNxAH4AknNxAH4AjHQABk9iamVjdHNxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Ao3NxAH4AmHQABGxhbmdxAH4AnXNxAH4AjHQAA0FueXEAfgCSdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY29tLm1la29uZ3NxAH4AtnQAA2NvbXNxAH4AtnQADmNvbS5tZWtvbmcuZHRvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGHJy27t3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvaG9tZS9oZHVzZXIvQmlnRGF0YURlbW8vZHRvL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFeB1si7/Ygj+REnJxkU04ZMNQtp
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXAO9mAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwlwVva3QABm5vdGlmeXNxAH4ADKK69+l0AAR3YWl0c3EAfgAM29pxBHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM7otxwXQADSRhc0luc3RhbmNlT2ZzcQB+AAyxOAr4dAAOY29weSRkZWZhdWx0JDVzcQB+AAzQt4ecdAAMcHJvZHVjdEFyaXR5c3EAfgAMysvxUXQABmVxdWFsc3NxAH4ADGfNi6p0AAdvcmRlcklkc3EAfgAMQKLilXQADGFzSW5zdGFuY2VPZnNxAH4ADFoGKRd0AAVwcmljZXNxAH4ADNSQJiV0AAxzeW5jaHJvbml6ZWRzcQB+AAwXh32FdAANJGlzSW5zdGFuY2VPZnNxAH4ADLn1N+R0AAhjYW5FcXVhbHNxAH4ADIUoRgh0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADF5c8Ft0AA1wcm9kdWN0UHJlZml4c3EAfgAMTiheA3QACW5vdGlmeUFsbHNxAH4ADMXINqh0AAZhbW91bnRzcQB+AAxm9cCFdAAMaXNJbnN0YW5jZU9mc3EAfgAMkAjDEnQABjxpbml0PnNxAH4ADNTKrl10AAI9PXNxAH4ADOyRFRB0AAVjbG9uZXNxAH4ADHttWZV0AAYkaW5pdCRzcQB+AAx10xSadAAOY29weSRkZWZhdWx0JDNzcQB+AAy8WZYTdAAPcHJvZHVjdENhdGVnb3J5c3EAfgAMk/AxyHQABGNvcHlzcQB+AAzb1fKwdAAIdG9TdHJpbmdzcQB+AAx1n7VZdAAJcHJvZHVjdElkc3EAfgAMouyV13QAAiE9c3EAfgAM1NRHlnQABU9yZGVyc3EAfgAM7DacI3QACGdldENsYXNzc3EAfgAM+xCThnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMBpimvHQAAm5lc3EAfgAMc0GhmnQAAmVxc3EAfgAMVsIoL3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADLaHEbl0AAIjI3NxAH4ADA4Mj5J0AAhmaW5hbGl6ZXNxAH4ADAFowuZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADMD49cZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRjb20ubWVrb25nLmR0by5PcmRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGNMAAlpbmhlcml0ZWRxAH4AY0wAB3BhcmVudHNxAH4AY3hxAH4AgHNxAH4Ae3VxAH4AXgAAAABzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYdAAEamF2YXNxAH4AmHQAAmlvcQB+AJ1zcQB+AIx0AAdQcm9kdWN0cQB+AJJzcQB+AIx0AAZFcXVhbHNxAH4AknNxAH4AjHQABk9iamVjdHNxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Ao3NxAH4AmHQABGxhbmdxAH4AnXNxAH4AjHQAA0FueXEAfgCSdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY29tLm1la29uZ3NxAH4AtnQAA2NvbXNxAH4AtnQADmNvbS5tZWtvbmcuZHRvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGHJy27t3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvaG9tZS9oZHVzZXIvQmlnRGF0YURlbW8vZHRvL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBMPVI6KEHf/YU+an7L99QpLFdFh
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw3qnm4AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwWpFkHQABm5vdGlmeXNxAH4ADMcvOvF0AARjaXR5c3EAfgAMI1duXnQABHdhaXRzcQB+AAyvbp7CdAAOY29weSRkZWZhdWx0JDJzcQB+AAxkc5TRdAANJGFzSW5zdGFuY2VPZnNxAH4ADCd18i50AA9TaGlwcGluZ0FkZHJlc3NzcQB+AAxTj1FwdAAGY2FydElkc3EAfgAMivfW2HQADmNvcHkkZGVmYXVsdCQ1c3EAfgAMnrqqAXQABXN0YXRlc3EAfgAMIi1ciXQADHByb2R1Y3RBcml0eXNxAH4ADJzDnLR0AAZlcXVhbHNzcQB+AAyMOh/KdAAMYXNJbnN0YW5jZU9mc3EAfgAMBUOiv3QADHN5bmNocm9uaXplZHNxAH4ADCtekb10AA0kaXNJbnN0YW5jZU9mc3EAfgAM14Qk7XQAB3ppcENvZGVzcQB+AAxX4hDSdAAIY2FuRXF1YWxzcQB+AAzL0GobdAAOY29weSRkZWZhdWx0JDRzcQB+AAw+BgiWdAANcHJvZHVjdFByZWZpeHNxAH4ADO5A+iN0AAlub3RpZnlBbGxzcQB+AAy+vm3ydAAMaXNJbnN0YW5jZU9mc3EAfgAMSTJML3QABjxpbml0PnNxAH4ADHP4/CR0AAI9PXNxAH4ADOH993V0AAVjbG9uZXNxAH4ADG5r4Rx0AAYkaW5pdCRzcQB+AAzfGp0udAAOY29weSRkZWZhdWx0JDNzcQB+AAzXdr1YdAAHYWRkcmVzc3NxAH4ADMcGp1N0AARjb3B5c3EAfgAMrfHalHQACHRvU3RyaW5nc3EAfgAMWuWMK3QAAiE9c3EAfgAM0AaiwXQACGdldENsYXNzc3EAfgAMeu5F5nQADmNvcHkkZGVmYXVsdCQxc3EAfgAMRtCYnXQAAm5lc3EAfgAMn5nzTnQAAmVxc3EAfgAMNCMLwHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADAlKNXl0AAIjI3NxAH4ADBGY9td0AAhmaW5hbGl6ZXNxAH4ADNKlD290AA5wcm9kdWN0RWxlbWVudHNxAH4ADA+55Qx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB5jb20ubWVrb25nLmR0by5TaGlwcGluZ0FkZHJlc3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIBzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Af3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmXNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHQABGphdmFzcQB+AJh0AAJpb3EAfgCdc3EAfgCMdAAHUHJvZHVjdHEAfgCSc3EAfgCMdAAGRXF1YWxzcQB+AJJzcQB+AIx0AAZPYmplY3RzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYcQB+AKNzcQB+AJh0AARsYW5ncQB+AJ1zcQB+AIx0AANBbnlxAH4AknVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5tZWtvbmdzcQB+ALZ0AANjb21zcQB+ALZ0AA5jb20ubWVrb25nLmR0b3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhyctu7d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA1L2hvbWUvaGR1c2VyL0JpZ0RhdGFEZW1vL2R0by9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR/ZbgWl4zXD2tMaeqEw5Pm2S8nEQ==
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5Dbv3wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyubaKHQABm5vdGlmeXNxAH4ADHKMLrp0AAR3YWl0c3EAfgAMOexChnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMNeN2FnQADSRhc0luc3RhbmNlT2ZzcQB+AAxJOzAjdAAMcHJvZHVjdEFyaXR5c3EAfgAMQsqy73QABmVxdWFsc3NxAH4ADBIDenV0AAdvcmRlcklkc3EAfgAMT8TDgnQADGFzSW5zdGFuY2VPZnNxAH4ADC/EP/B0AAxzeW5jaHJvbml6ZWRzcQB+AAwwowA7dAANJGlzSW5zdGFuY2VPZnNxAH4ADAu+tjN0AAhjYW5FcXVhbHNxAH4ADKTtzCF0AA1wcm9kdWN0UHJlZml4c3EAfgAM5fkMIHQACW5vdGlmeUFsbHNxAH4ADBxF5Ul0AAxpc0luc3RhbmNlT2ZzcQB+AAxoLLb0dAAGPGluaXQ+c3EAfgAMcpnKR3QACmNoYW5nZURhdGVzcQB+AAxyWVrLdAACPT1zcQB+AAx+FzBMdAAFY2xvbmVzcQB+AAwcmcwTdAAGc3RhdHVzc3EAfgAMrWhxiHQABiRpbml0JHNxAH4ADJY9XwJ0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADEvr+SV0AARjb3B5c3EAfgAMrJtMI3QACHRvU3RyaW5nc3EAfgAMeePDh3QAAiE9c3EAfgAMUkkVKnQACGdldENsYXNzc3EAfgAMZ8tpKXQADmNvcHkkZGVmYXVsdCQxc3EAfgAM/TIv4HQAAm5lc3EAfgAMhpc8gHQADlNoaXBwaW5nU3RhdHVzc3EAfgAM5aTAr3QAAmVxc3EAfgAMG5zugnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADMB9pLx0AAIjI3NxAH4ADLBcWVF0AAhmaW5hbGl6ZXNxAH4ADDGv3cZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKCZGVh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB1jb20ubWVrb25nLmR0by5TaGlwcGluZ1N0YXR1c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AeHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB3dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCRc3EAfgCEcQB+AIdzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQdAAEamF2YXNxAH4AkHQAAmlvcQB+AJVzcQB+AIR0AAdQcm9kdWN0cQB+AIpzcQB+AIR0AAZFcXVhbHNxAH4AinNxAH4AhHQABk9iamVjdHNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJBxAH4Am3NxAH4AkHQABGxhbmdxAH4AlXNxAH4AhHQAA0FueXEAfgCKdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY29tLm1la29uZ3NxAH4ArnQAA2NvbXNxAH4ArnQADmNvbS5tZWtvbmcuZHRvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGHJy27t3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvaG9tZS9oZHVzZXIvQmlnRGF0YURlbW8vZHRvL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFER/yfogqqYetN4H3gcmzLSoj3IX
+external apis:
+0 items
+source infos:
+4 items
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> 
+AAAAAAAAAAA=
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> 
+AAAAAAAAAAA=
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> 
+AAAAAAAAAAA=
+/home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhyctu7d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL2hkdXNlci9CaWdEYXRhRGVtby9kdG8vYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABLw==

@@ -1,0 +1,30 @@
+products:
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Cart$.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Cart.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Order$.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/Order.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingAddress$.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingAddress.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingStatus$.class
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /home/hduser/BigDataDemo/dto/build/classes/scala/main/com/mekong/dto/ShippingStatus.class
+binary dependencies:
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /home/hduser/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+source dependencies:
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala
+external dependencies:
+class names:
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> com.mekong.dto.Cart
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Cart.scala -> com.mekong.dto.Cart$
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> com.mekong.dto.Order
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/Order.scala -> com.mekong.dto.Order$
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> com.mekong.dto.ShippingAddress
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingAddress.scala -> com.mekong.dto.ShippingAddress$
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> com.mekong.dto.ShippingStatus
+   /home/hduser/BigDataDemo/dto/src/main/scala/com.mekong.dto/ShippingStatus.scala -> com.mekong.dto.ShippingStatus$
